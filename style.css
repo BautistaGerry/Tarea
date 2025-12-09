@@ -118,6 +118,7 @@ nav a:hover{
     background-color: #000000;
     color: var(--color-primario-000);
     gap: 8px;
+    cursor: pointer;
 }
 
 .account{
@@ -125,6 +126,7 @@ padding: 10px;
 background-color:black;
 border: none;
 color: white;
+cursor: pointer;
 }
 
 .shop{
@@ -133,7 +135,7 @@ background-color:black;
 border: none;
 text-decoration: none;
 color: white;
-
+cursor: pointer;
 }
 
 .shop:hover{
